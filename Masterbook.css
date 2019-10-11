@@ -16,7 +16,7 @@ set font size to 15ps
 set text color to #4D4D4D
 */
 body{
-    background-image: url(.png);
+    background-image: url(combs.png);
     font-family:Arial,sans-serif;
     font-size:15px;
     color:#4d4d4d;
