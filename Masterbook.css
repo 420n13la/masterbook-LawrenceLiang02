@@ -3,8 +3,8 @@ Setup the padding and margin to 0px for all the following selectors:
 body, h1, h2, h3, h4, h5, h5, p, ul, ol, li, a.
 */
 h1,h2,h3,h4,h5,p,ul,ol,li,a{
-    padding:5px;
-    margin:10px;
+    padding:0px;
+    margin:0px;
 }
 
 
